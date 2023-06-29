@@ -16,6 +16,7 @@
         "js": "ignorePackages"
       }
     ],
-    "no-restricted-syntax": "off"
+    "no-restricted-syntax": "off",
+    "no-use-before-define": "off"
   }
 }
