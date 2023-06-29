@@ -15,6 +15,7 @@
       {
         "js": "ignorePackages"
       }
-    ]
+    ],
+    "no-restricted-syntax": "off"
   }
 }
